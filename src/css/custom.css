@@ -1,0 +1,21 @@
+/**
+ * Copyright (c) 2017-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=block");
+
+body {
+  font-family: "IBM Plex Sans", "Open Sans", sans-serif;
+}
+
+code {
+  font-size: 1.2em;
+}
