@@ -9,7 +9,7 @@ module.exports = {
   title: "Docusaurus no style",
   tagline: "Docusaurus 2 theme with minimum style",
   url: "https://t-thomas-dev.github.io",
-  baseUrl: "/docusaurus-test-2/",
+  baseUrl: "/",
   favicon: "img/diplodocus.png",
   organizationName: "t-thomas-dev", // Usually your GitHub org/user name.
   projectName: "docusaurus-test-2", // Usually your repo name.
