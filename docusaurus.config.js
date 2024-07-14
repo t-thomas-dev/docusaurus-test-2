@@ -8,11 +8,12 @@
 module.exports = {
   title: "Docusaurus no style",
   tagline: "Docusaurus 2 theme with minimum style",
-  url: "https://docusaurus-template-no-style.netlify.com",
-  baseUrl: "/",
+  url: "https://t-thomas-dev.github.io",
+  baseUrl: "/docusaurus-test-2/",
   favicon: "img/diplodocus.png",
-  organizationName: "wgao19", // Usually your GitHub org/user name.
-  projectName: "docusaurus-no-style", // Usually your repo name.
+  organizationName: "t-thomas-dev", // Usually your GitHub org/user name.
+  projectName: "docusaurus-test-2", // Usually your repo name.
+  trailingSlash: true,
   themeConfig: {
     image: "img/diplodocus.png",
     navbar: {
