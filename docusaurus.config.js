@@ -13,7 +13,6 @@ module.exports = {
   favicon: "img/diplodocus.png",
   organizationName: "t-thomas-dev", // Usually your GitHub org/user name.
   projectName: "docusaurus-test-2", // Usually your repo name.
-  trailingSlash: true,
   themeConfig: {
     image: "img/diplodocus.png",
     navbar: {
